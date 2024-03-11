@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoco=self.webpackChunkoco||[]).push([[6976],{1250:o=>{o.exports=JSON.parse('{"permalink":"/oco/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

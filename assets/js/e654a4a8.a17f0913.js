@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoco=self.webpackChunkoco||[]).push([[4757],{5872:o=>{o.exports=JSON.parse('{"label":"facebook","permalink":"/oco/blog/tags/facebook","allTagsPath":"/oco/blog/tags","count":1,"unlisted":false}')}}]);

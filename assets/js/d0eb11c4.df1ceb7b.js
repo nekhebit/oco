@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoco=self.webpackChunkoco||[]).push([[8733],{2901:o=>{o.exports=JSON.parse('[{"label":"facebook","permalink":"/oco/blog/tags/facebook","count":1},{"label":"hello","permalink":"/oco/blog/tags/hello","count":2},{"label":"docusaurus","permalink":"/oco/blog/tags/docusaurus","count":4},{"label":"hola","permalink":"/oco/blog/tags/hola","count":1}]')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoco=self.webpackChunkoco||[]).push([[2757],{9736:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/oco/blog/tags/docusaurus","allTagsPath":"/oco/blog/tags","count":4,"unlisted":false}')}}]);

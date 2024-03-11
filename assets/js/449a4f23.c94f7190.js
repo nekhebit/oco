@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoco=self.webpackChunkoco||[]).push([[8758],{4027:o=>{o.exports=JSON.parse('{"label":"hola","permalink":"/oco/blog/tags/hola","allTagsPath":"/oco/blog/tags","count":1,"unlisted":false}')}}]);
